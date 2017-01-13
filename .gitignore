@@ -1,0 +1,5 @@
+# Ignore file with keepass location
+keepass_db.sh
+
+# Ignore backups
+backups/
